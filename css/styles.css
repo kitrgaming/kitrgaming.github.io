@@ -6713,7 +6713,7 @@ section .image {
   background-position: center center;
   background-size: cover; }
   section .image.image1 {
-    background-image: url("../img/example.jpg"); }
+    background-image: url("../img/kitrlogo.png"); }
   section .image.image2 {
     background-image: url("../img/example-2.jpg"); }
 section .text {
