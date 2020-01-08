@@ -16,8 +16,8 @@
                 <a href="https://discord.gg/red">Join</a>
             </nav>
             <div class="server-info d-flex align-items-center flex-column text-center">
-                <h1>Red - Discord Bot</h1>
-                <a class="links-suppressor join-btn btn-pill white" href="https://discord.gg/red">Join Server</a>
+                <h1>KITR Gaming</h1>
+                <a class="links-suppressor join-btn btn-pill white" href="https://discord.gg/H98tPwQ">Join Server</a>
             </div>
         </div>
         <div class="inner d-flex flex-column">
