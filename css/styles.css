@@ -6708,7 +6708,7 @@ body {
 
 section .image {
   width: 350px;
-  min-height: 500px;
+  min-height: 480px;
   margin: 40px;
   background-position: center center;
   background-size: cover; }
